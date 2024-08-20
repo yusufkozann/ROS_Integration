@@ -1,0 +1,2 @@
+robotcraft2024_driver_g2:robotcraft_robot_description
+-DCATKIN_DEVEL_PREFIX=/home/joseph/ros_integration/devel -DCMAKE_INSTALL_PREFIX=/home/joseph/ros_integration/install -G Unix Makefiles

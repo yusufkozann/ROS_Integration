@@ -1,0 +1,8 @@
+prefix=/home/joseph/ros_integration/devel
+
+Name: ros_interface_ws
+Description: Description of ros_interface_ws
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
